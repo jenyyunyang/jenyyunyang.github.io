@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+Welcome to a friendly space where I share pieces of my everyday life alongside the ideas and research topics that shape my curiosity. I am currently a master's student, and this micro-blog is where I document the thoughts, interests, and moments that matter to me — both personal and academic.
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+**Microblogging** is my brain which is chaotic, excited, and deeply curious. Nothing here is “finished,” but everything here is honest.
+
+For more about me, feel free to visit my LinkedIn profile: [JENNYYANG](linkedin.com/in/jeongyoon-yang-1b704b262)
