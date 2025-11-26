@@ -7,4 +7,4 @@ Welcome to a friendly space where I share pieces of my everyday life alongside t
 
 **Microblogging** is my brain which is chaotic, excited, and deeply curious. Nothing here is “finished,” but everything here is honest.
 
-For more about me, feel free to visit my LinkedIn profile: [JennyYang](linkedin.com/in/jeongyoon-yang-1b704b262)
+For more about me, feel free to visit my LinkedIn profile: [JennyYang](https://linkedin.com/in/jeongyoon-yang-1b704b262)
