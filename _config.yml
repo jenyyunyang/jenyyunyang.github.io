@@ -2,10 +2,10 @@
 title: Microblogging
 description: A tiny corner of the internet for my ideas.
 url: https://vszhub.github.io
-avatar: /assets/images/myphoto.jpg
+avatar: /myphoto.jpg
 paginate: 5
 permalink: pretty
-cover_image: /assets/images/banner.jpg
+cover_image: /banner.jpg
 
 # Gems
 plugins:
