@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Courses I’m Taking Right Now
+title: Courses I’m taking right now
 tags: school
 date: 2025-11-26
 ---
